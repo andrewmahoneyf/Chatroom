@@ -1,0 +1,26 @@
+{
+  "name": "chat",
+  "author": "Andrew Mahoney-Fernandes",
+  "homepage": "https://info343-au16.github.io/challenges-andrewmahoneyf/chat/build",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "0.7.0"
+  },
+  "dependencies": {
+    "firebase": "^3.6.0",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "react-router": "^3.0.0",
+    "react-bootstrap": "^0.30.6",
+    "bootstrap": "^3.3.7",
+    "lodash": "^4.16.6",
+    "react-time": "^4.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
